@@ -1,6 +1,7 @@
-# Kurs-Otomasyonu
+# Java Masaüstü - Kurs Otomasyonu
 Bu proje java EE ile MYSQL veritabanı kullanarak bir kursun tüm ihtiyaçlarını karşılamayı hedefler.
 <hr>
+<p>
 <img src="https://github.com/hakanozer/Kurs-Otomasyonu/blob/master/goruntuler/giris_ekrani.jpg" width="200"/>
 <img src="https://github.com/hakanozer/Kurs-Otomasyonu/blob/master/goruntuler/grup_guncelle.jpg" width="200"/>
 <img src="https://github.com/hakanozer/Kurs-Otomasyonu/blob/master/goruntuler/grup_listele.jpg" width="200"/>
@@ -19,3 +20,4 @@ Bu proje java EE ile MYSQL veritabanı kullanarak bir kursun tüm ihtiyaçların
 <img src="https://github.com/hakanozer/Kurs-Otomasyonu/blob/master/goruntuler/rehberlik_ogretmenprogramları.jpg" width="200"/>
 <img src="https://github.com/hakanozer/Kurs-Otomasyonu/blob/master/goruntuler/rehberlik_yoklama.jpg" width="200"/>
 <img src="https://github.com/hakanozer/Kurs-Otomasyonu/blob/master/goruntuler/rehberlik_yokolan.jpg" width="200"/>
+</p>
